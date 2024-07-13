@@ -37,6 +37,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>project-j13</finalName>
     </build>
 
 
